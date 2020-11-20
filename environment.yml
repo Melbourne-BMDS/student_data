@@ -1,0 +1,14 @@
+name: student_data
+channels:
+  - default
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - pip
+  - seaborn
+  - jupyterlab
+  - holoviews
+  - hvplot
+  - pip:
+    - canvasapi
