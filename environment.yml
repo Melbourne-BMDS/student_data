@@ -12,3 +12,7 @@ dependencies:
   - hvplot
   - pip:
     - canvasapi
+    - beautifulsoup4
+    - python-dateutil
+    - readability
+      # - language-check
